@@ -1,0 +1,3 @@
+Harshit,100000
+Mohit,100000
+Sanaya,60000

@@ -1,0 +1,6 @@
+<http>
+<a href="www.facebook.com"> Click to enter the facebook </a> <a href="www.instagram.com"> Click to enter the instagram </a>
+<a href="www.youtube.com"> Click to enter the youtube </a>
+<a href="www.whatsapp.com"> Click to enter the whatsapp </a>
+<a href="www.twitter.com"> Click to enter the twitter </a>
+</http>

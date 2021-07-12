@@ -1,0 +1,8 @@
+Kalam,34,kalamnstu
+JOY,23,joyguru
+Hasnat,32,hasnatnstu
+Asad Un Nobi,49,nobinstu
+Abhijeet,37,abhijeetnstu
+humayun,56,humayunnstu
+Kowshik,35,kowshiknstu
+Salauddin Pathan,32,pathannstu
